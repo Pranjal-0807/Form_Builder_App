@@ -1,0 +1,1 @@
+export const inputFieldOptions = ['text', 'email', 'password', 'number', 'date'];
